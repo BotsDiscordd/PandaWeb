@@ -14,7 +14,8 @@ const Navbar = () => {
                 </div>
                 <div className="panda__navbar-links_container">
                     <p><a href="#home">Home</a> </p>
-                    <p><a href="#updates">Youtube</a></p>
+                    <p><a href="#youtube">YouTube</a></p>
+                    <p><a href="#about">About</a></p>
                 </div>
             </div>
             <div className="panda__navbar-sign">
@@ -29,7 +30,8 @@ const Navbar = () => {
                     <div className="panda__navbar-menu_container scale-up-center">
                         <div className="panda__navbar-menu_container-links">
                             <p><a href="#home">Home</a></p>
-                            <p><a href="#updates">Youtube</a></p>
+                            <p><a href="#youtube">YouTube</a></p>
+                            <p><a href="#about">About</a></p>
                         </div>
                         <div className="panda__navbar-menu_container-links-sign">
                             <p>Sign in</p>

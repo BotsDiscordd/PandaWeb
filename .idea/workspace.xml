@@ -4,36 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94b7f116-8da9-45dd-af76-5e8d73af284e" name="Changes" comment="Starting stuff">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/public/logo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/assets/ai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/assets/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/assets/youtube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/features/Features.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/features/features.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/footer/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/possibility/Possibility.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/possibility/possibility.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/updates/Updates.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/updates/updates.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandaweb/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandaweb/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/public/manifest.json" afterDir="false" />
+    <list default="true" id="94b7f116-8da9-45dd-af76-5e8d73af284e" name="Changes" comment="Header and Navbar are done working on Twitch and Youtube Links now">
+      <change afterPath="$PROJECT_DIR$/pandaweb/src/assets/discord.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandaweb/src/components/Twitch/twitch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandaweb/src/components/Twitch/twitch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/about/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandaweb/src/containers/about/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandaweb/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaweb/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaweb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pandaweb/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pandaweb/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandaweb/src/components/brand/brand.css" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/components/brand/brand.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pandaweb/src/components/brand/brand.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/components/brand/brand.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandaweb/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandaweb/src/components/navbar/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/components/navbar/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaweb/src/components/brand/imports.js" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/components/brand/imports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaweb/src/components/feature/feature.css" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/components/feature/feature.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaweb/src/components/feature/feature.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/components/feature/feature.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pandaweb/src/components/navbar/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/components/navbar/navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandaweb/src/containers/updates/updates.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/components/brand/imports.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandaweb/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaweb/src/containers/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/containers/header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandaweb/src/containers/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/pandaweb/src/containers/header/header.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -121,7 +114,8 @@
       <workItem from="1644118530415" duration="55000" />
       <workItem from="1644118608030" duration="60000" />
       <workItem from="1644118691610" duration="2257000" />
-      <workItem from="1644121804009" duration="14015000" />
+      <workItem from="1644121804009" duration="14269000" />
+      <workItem from="1644172697606" duration="13805000" />
     </task>
     <task id="LOCAL-00001" summary="Starting stuff">
       <created>1644122449874</created>
@@ -130,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644122449874</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Header and Navbar are done working on Twitch and Youtube Links now">
+      <created>1644137804483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644137804483</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +151,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Starting stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting stuff" />
+    <MESSAGE value="Header and Navbar are done working on Twitch and Youtube Links now" />
+    <option name="LAST_COMMIT_MESSAGE" value="Header and Navbar are done working on Twitch and Youtube Links now" />
   </component>
 </project>
