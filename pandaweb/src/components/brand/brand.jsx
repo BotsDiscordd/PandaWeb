@@ -1,12 +1,16 @@
-import React from "react";
-import './brand.css'
+import React from 'react';
+import { google, twitch } from './imports';
+import './brand.css';
 
-const Brand = () => {
-    return (
+const Brand = () => (
+    <div className="gpt3__brand section__padding">
         <div>
-            Brand
+            <img src={google} alt="google"/>
         </div>
-    )
-}
+        <div>
+            <img src={twitch} alt="twitch"/>
+        </div>
+    </div>
+);
 
-export default Brand
+export default Brand;
