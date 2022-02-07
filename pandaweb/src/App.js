@@ -1,30 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
 import React from 'react';
-import { Features, Header, Footer, Updates, Possibility}  from './containers';
-import { Brand, CTA, Navbar } from "./components";
-import About from "./containers/about/About";
-import { BrowserRouter as Router, Route } from 'react-router-dom';
-import Twitch from "./components/Twitch/twitch";
+import Main from './views/Main/Main'
+import Twitch from './views/Twitch/Twitch'
+import { Route , Link } from 'react-router-dom'
 
 
 
 function App() {
         return (
             <div className="App">
-                <div className="gradient__bg">
-                    <Navbar />
-                    <Header />
-                </div>
-                <Brand />
-                <About />
-                <Features />
-                <Possibility />
-                <CTA />
-                <Updates />
-                <Footer />
+                <Route exact path="/" component={Main}/>
+                <Route exact path="/twitch" component={Twitch}/>
             </div>
-
 )
 
 

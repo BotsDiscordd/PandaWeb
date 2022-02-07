@@ -13,8 +13,8 @@ const Navbar = () => {
                     <img src={logo} alt="logo" />
                 </div>
                 <div className="panda__navbar-links_container">
-                    <p><a href="#home">Home</a> </p>
-                    <p><a href="#youtube">YouTube</a></p>
+                    <p><a href="/">Home</a> </p>
+                    <p><a href="/twitch">YouTube</a></p>
                     <p><a href="#about">About</a></p>
                 </div>
             </div>

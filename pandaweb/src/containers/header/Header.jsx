@@ -12,6 +12,9 @@ const Header = () => {
                 <div className="panda__header-content__input">
                     <input type="email" placeholder="Your Email Address" />
                     <button type="button">Get Started</button>
+                    <onClick>
+                        
+                    </onClick>
                 </div>
 
             </div>
